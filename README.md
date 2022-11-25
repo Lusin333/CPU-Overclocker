@@ -28,9 +28,9 @@ Of course, Lusin also made the CPU Overclocker available to the public for free!
 <img src="https://raw.githubusercontent.com/Lusin333/CPU-Overclocker/master/CPU%20Overclock%20Icon%20-%20Lusin.png" data-canonical-src="https://raw.githubusercontent.com/Lusin333/CPU-Overclocker/master/CPU%20Overclock%20Icon%20-%20Lusin.png" width="225" />
 </a>
 
-## Follow Lusin
+## Follow Lusin333
 * 🎥 [Lusin's Youtube](https://www.Youtube.com/c/Lusin333?sub_confirmation=1)
 * 🐦 [Lusin's Twitter](https://Twitter.com/Lusin333)
 * 📸 [Lusin's Instagram](https://www.instagram.com/Lusin.333)
+* 📽️ [Lusin's TikTok](https://www.tiktok.com/@lusin.333)
 * 👩‍💻 [Lusin's Github](https://Github.com/Lusin333)
-
