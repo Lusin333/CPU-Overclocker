@@ -36,4 +36,4 @@ Of course, Lusin also made the CPU Overclocker available to the public for free!
 * 👩‍💻 [Lusin's Github](https://Github.com/Lusin333)
 
 ***
-![CPU Overclocker visitor badge](https://visitor-badge.glitch.me/badge?page_id=CPU_Overclocker.visitor-badge&left_text=CPU%20Overclocker%20Visitors)
+![CPU Overclocker Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FLusin333%2FCPU-Overclocker&countColor=%23263759&style=flat-square)
