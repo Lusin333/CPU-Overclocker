@@ -34,3 +34,6 @@ Of course, Lusin also made the CPU Overclocker available to the public for free!
 * 📸 [Lusin's Instagram](https://www.instagram.com/Lusin.333)
 * 📽️ [Lusin's TikTok](https://www.tiktok.com/@lusin.333)
 * 👩‍💻 [Lusin's Github](https://Github.com/Lusin333)
+
+***
+![CPU Overclocker visitor badge](https://visitor-badge.glitch.me/badge?page_id=CPU_Overclocker.visitor-badge&left_text=CPU%20Overclocker%20Visitors)
